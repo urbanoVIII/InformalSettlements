@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: Share of urban population living in slums 2014-01.jpg
 ---
 
-###A planet of slums
+### A planet of slums
