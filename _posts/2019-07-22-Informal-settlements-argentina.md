@@ -4,7 +4,7 @@ title: "Informal settlements in Argentina"
 author: "Ecosistema Urbano"
 categories: documentation
 tags: [documentation,sample]
-image: UrbanPop.jpg
+image: TechoScreenshot.PNG
 ---
 
 # Informal Settlements in Argentina
