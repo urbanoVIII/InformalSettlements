@@ -1,13 +1,19 @@
 # On Slums
 
-On Slums, a research project on Informal Settlements in Argentina
+On Slums is a research project on Public Space in Informal Settlements in Argentina
 
 ## Credits
 
 ### Contents
 #### Ecosistema Urbano
 
-### Template Creator
+* [ecosistemaurbano.com](http://ecosistemaurbano.com)
+
+* [Twitter](https://twitter.com/ecosistema)
+
+* [GitHub](https://github.com/EcosistemaUrbano)
+
+### Theme
 
 #### Paul Le
 
@@ -26,12 +32,6 @@ On Slums, a research project on Informal Settlements in Argentina
 * [mschaeffner](https://github.com/mschaeffner)
 
 * [cfe316](https://github.com/cfe316)
-
-### Icons + Demo Images
-
-* [Death to Stock](https://deathtothestockphoto.com/)
-
-* [Font Awesome](http://fontawesome.io/)
 
 ## License
 
