@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UN Habitat Standards for Adequate Living"
+title: "UN Habitat Standards for Adecuate Living"
 author: "Ecosistema Urbano"
 categories: documentation
 tags: [documentation,sample]

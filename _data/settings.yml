@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Bibliography', folder: 'pages', file: 'bibliograpgy.html'}
+- {name: 'Bibliography', folder: 'pages', file: 'bibliography.html'}
 - {name: 'Data', folder: 'pages', file: 'data.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
