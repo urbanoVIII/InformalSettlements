@@ -16,6 +16,36 @@ Growth in urban population is not equally distributed, the scale and velocity of
 
 However megacities are just one aspect of the urbanization of the world, small and medium size cities are also growing everywhere in the world and they are absorbig the vast majority of the new urban dwellers. 
 
+### World's Megacities
+Population in millions. Change in percentage per year
+
+|     | | |                | Population in millions |Change per year|
+|-----|--------------------|------|----------------|---------------|-------------|
+|1| Canton | developing | urban population of admin. areas | 45.600.000 | + 1.75% |
+|2| Tokyo | agglomeration | developed | 40.200.000 | + 0,5% |
+|3| Shanghai | urban population of admin. areas | developing | 35.900.000 | + 1.85% |
+|4| Jakarta | agglomeration | developing | 30.600.000 | + 2.5% | 
+|5| Delhi | conglomeration | developing | 29.400.000 | + 3.3% |
+|6| Manila | agglomeration | developing | 25.200.000 | + 2.2% |
+|7| Mumbai | conglomeration | developing | 24.700.000 | + 1.9% |
+|8| Seoul | consolidated urban area | developed | 24.700.000 | + 0.45% |
+|9| Mexico City | agglomeration | developing | 22.800.000 | + 1% |
+|10| New York | consolidated urban area | developed | 22.400.000 | + 0.55% |
+|11| São Paulo | agglomeration | developing | 22.200.000 | + 1.2% |
+|12| Cairo | agglomeration | developing | 20.500.000 | + 2.4% |
+|13| Beijing | urban population of admin. areas | developing | 20.400.000 | + 2% |
+|14| Dhaka | agglomeration | under-developed | 19.500.000 | + 3.5% |
+|15| Lagos |      | developing | 18.800.000 | + 3.2% |
+|16| Bangkok | agglomeration | developing | 18.300.000 | + 3% |
+|17| Los Angeles | consolidated urban area | developed | 17.800.000 | + 0.75% |
+|18| Osaka | agglomeration | developed | 17.700.000 | - 0.1% |
+|19| Karachi | agglomeration | developing | 17.300.000 | + 2.5% |
+|20| Moscow |    | developing | 17.200.000 | + 1% |
+|21| Calcutta | conglomeration | developing | 16.600.000 | + 1.2% |
+|22| Buenos Aires | consolidated urban area | developing | 16.300.000 | + 1.1% |
+|23| Istanbul | agglomeration | developing | 15.800.000 | + 1.7% |
+|24| Tehran | agglomeration | developing | 15.000.000 | + 2.1% |
+
 ## Informality
 
 ## Big Numbers
