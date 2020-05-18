@@ -3,11 +3,13 @@ layout: misc
 title: Bibliography
 ---
 
-Bibliography
+A short bibliography following the six main topics of the research.
 
- ## Urbanization, Informality, and the Role of Public Space
+## Urbanization, Informality, and the Role of Public Space
 
  * Harvey, David. “The Right to the City.” _International Journal of Urban and Regional Research 27_, no. 4 (2003): 939-41.
+
+ * Davis, Mike. _Planet of Slums._ Verso (2007)
 
 ## Community and Social Development
 
