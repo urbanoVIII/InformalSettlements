@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Informal Settlements"
-description:	       "a research about Informal Settlements in Argentina"
+title:		           "Public Space as a Catalyst for Change in Informal Settlements"
+description:	       "The case of Argentina"
 author:              "EU"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

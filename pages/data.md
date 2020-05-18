@@ -9,4 +9,4 @@ Most of the geospatial data are available in The "[Techo Survey](http://relevami
  * [The Vulenrability Index Methodology](http://relevamiento.techo.org.ar/downloads/ivt_metodologia.pdf)
  * [The GeoSpatial Database](http://ec2-107-22-80-86.compute-1.amazonaws.com/download/2016)
 
-The detailed analysis of 9 selected Settlements can be downloaded [here](\assets\downloads\ArgentinaCaseStudies.pdf).
+The detailed analysis of 9 selected Settlements can be downloaded [here](..\assets\downloads\ArgentinaCaseStudies.pdf).
